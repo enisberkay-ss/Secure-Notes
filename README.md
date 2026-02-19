@@ -70,7 +70,7 @@ Make regular backups of your `secure_notes.db` file.
 ## 🤖 Acknowledgments
 
 This project was developed with assistance from AI tools\
-(ChatGPT / Claude) for:
+(ChatGPT / Kimi) for:
 
 -   GUI design and CustomTkinter integration\
 -   Encryption implementation\
